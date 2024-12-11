@@ -1,1 +1,1 @@
-#Sentiment-Analysis-Aplikasi-SiReKAP-Bi-LSTM
+#Sentiment-Analysis-Aplikasi-Sirekap-Bi-LSTM
